@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">339230410853-i17d7f1gotce86gh7l782e5pijkt77rq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cycleasy-1569520489071.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">339230410853</string>
+    <string name="google_api_key" translatable="false">AIzaSyCnOeC9xL2k5iuSaheLWe8YDhU0x6jy6V8</string>
+    <string name="google_app_id" translatable="false">1:339230410853:android:09754f309985cbc8c7de8c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCnOeC9xL2k5iuSaheLWe8YDhU0x6jy6V8</string>
+    <string name="google_storage_bucket" translatable="false">cycleasy-1569520489071.appspot.com</string>
+    <string name="project_id" translatable="false">cycleasy-1569520489071</string>
+</resources>
